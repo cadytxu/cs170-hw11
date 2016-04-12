@@ -1,0 +1,2 @@
+x, y : BOOLEAN;
+ASSERT((x OR NOT(y)) AND (NOT(x) OR y));
