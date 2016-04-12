@@ -1,2 +1,4 @@
-x, y : BOOLEAN;
-ASSERT((x OR NOT(y)) AND (NOT(x) OR y));
+Satisfiable.
+ASSERT( C  = TRUE  );
+ASSERT( A  = FALSE  );
+ASSERT( B  = FALSE  );
